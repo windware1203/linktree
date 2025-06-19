@@ -44,8 +44,12 @@ body {
     width: 100%;
     text-align: center;
     text-decoration: none;
+    margin: 10px;
+
 }
 #CCName{
+    margin: 10px;
+    font-size: 1.2rem;
     font-family: var(--fontu);
 }
 
